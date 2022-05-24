@@ -1,6 +1,6 @@
 👋 Hi, I’m @nictamhk
 
-👀 I am a data scientist passionate of harnessing the power of big data and artificial intelligence to streamline and automate tasks. 
+👀 I am a data scientist passionate of harnessing the power of big data and artificial intelligence to streamline and to automate tasks. 
 <!--
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
